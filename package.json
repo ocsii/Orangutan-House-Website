@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "build:css": "tailwindcss -i ./src/index.css -o ./src/styles/tailwind.css"
+    "build:css": "tailwindcss -i ./src/styles/index.css -o ./src/styles/tailwind.css"
   },
   "dependencies": {
     "react": "^18.3.1",
